@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Prakash Dwivedi</h1>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!!" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydwivedi12&label=Profile%20views&color=0e75b6&style=flat" alt="jaydwivedi12" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
