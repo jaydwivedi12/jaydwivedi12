@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently focusing on **DSA**
 
-- 👨‍💻 All of my projects are available at [http://jay-portfolio.netlify.com](http://jay-portfolio.netlify.com)
-
 - 💬 Ask me about **Web Development**
 
 - ⚡ Fun fact **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT**
