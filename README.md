@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT**
+- ⚡ Fun fact **My GitHub codes = 50% Me + 20% StackOverflow + 20% Google + 10% ChatGPT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
