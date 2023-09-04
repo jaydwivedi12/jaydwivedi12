@@ -48,6 +48,15 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </div>
+
+    
+   <h3 align="left">Others:</h3>
+<div align="left">
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+   <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
+    </div>
     
 ![jaydwivedi12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydwivedi12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![jaydwivedi12's Stats](https://github-readme-stats.vercel.app/api?username=jaydwivedi12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
