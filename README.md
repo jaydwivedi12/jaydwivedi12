@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
-- 👨‍💻 I'm a **B-Tech CSE Final year student**
+- 👨‍💻 I'm a **Software Engineer** & **AWS Solution Architect Associate** Certfied
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools**
+- 🌱 I’m currently developing and learning **Python, Django**
 
 - 🔭 I’m currently focusing on **DSA**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development,AWS Cloud**
 
 - ⚡ Fun fact **My GitHub codes = 50% Me + 20% StackOverflow + 20% Google + 10% ChatGPT**
 
@@ -20,7 +20,7 @@
 <a href="https://www.leetcode.com/jaydwivedi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaydwivedi12" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Web :</h3>
+<h3 align="left">Development :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -33,6 +33,7 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> 
 </div>
 
 <h3 align="left">Languages :</h3>
@@ -41,6 +42,7 @@
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
    <br>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
   </div>
 
   
@@ -53,6 +55,7 @@
     
    <h3 align="left">Others:</h3>
 <div align="left">
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS"/>
       <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
      <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <br>
