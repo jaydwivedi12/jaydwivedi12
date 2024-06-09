@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
-- 👨‍💻 I'm a **Software Engineer** & **AWS Solution Architect Associate** Certfied
+- 👨‍💻 I'm a **Software Engineer** & **AWS Solution Architect Associate** Certified
 
 - 🌱 I’m currently developing and learning **Python, Django**
 
