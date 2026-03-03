@@ -6,13 +6,13 @@
 
 - 👨‍💻 I'm a **Software Engineer** & **AWS Solution Architect Associate** Certified
 
-- 🌱 I’m currently developing and learning **Python, Django**
-
+- 🌱 I’m currently developing and learning **Python, Django, Flask , FastAPI, C++, Javascript**
+  
 - 🔭 I’m currently focusing on **DSA**
 
-- 💬 Ask me about **Web Development,AWS Cloud**
+- 💬 Ask me about **Development,AWS Cloud**
 
-- ⚡ Fun fact **My GitHub codes = 50% Me + 20% StackOverflow + 20% Google + 10% ChatGPT**
+- ⚡ Fun fact **My GitHub codes = 50% Me + 10% StackOverflow + 20% Google + 20% ChatGPT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
