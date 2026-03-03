@@ -62,7 +62,3 @@
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
    <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
     </div>
-    
-![jaydwivedi12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydwivedi12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![jaydwivedi12's Stats](https://github-readme-stats.vercel.app/api?username=jaydwivedi12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jaydwivedi12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaydwivedi12&theme=vue-dark&hide_border=true)
